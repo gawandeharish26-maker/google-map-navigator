@@ -1,4 +1,4 @@
-# google-map-navigator
+# Google-Map-Navigator
 
 # 🏘️ Repnarv — Real Estate Property Search App
 
