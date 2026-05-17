@@ -1,7 +1,13 @@
-import RepnarvApp from './RepnarvApp';
+ //import RepnarvApp from './RepnarvApp';
+import PropertySection from "./components/PropertySection";
 
 function App() {
-  return <RepnarvApp />;
+  return (
+    <div>
+    {/*  <RepnarvApp/> */}
+      <PropertySection />
+    </div>
+  );
 }
 
 export default App;
